@@ -1,6 +1,6 @@
 # Project-front
 
-This repository contains the front-end code for our project. It is built using HTML, CSS, and JavaScript, and is designed to provide a user-friendly interface for our application.
+This repository contains the front-end code for our project. It is built using HTML, CSS, and JavaScript, and is designed to provide a user-friendly interface for our website.
 
 ## Features
 
